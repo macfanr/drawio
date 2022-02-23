@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T06:38:39.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wU8FQu5LPEDIv-M3XI-h" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T06:42:24.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FSM-gpMzqmMeT9nXMQ2a" version="16.6.2" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
-    <mxGraphModel dx="1598" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1598" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,11 +70,11 @@
         <mxCell id="QCGSpq1cBCFL9giMwPIF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="810" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QCGSpq1cBCFL9giMwPIF-8" value="情形一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-8" value="情形二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QCGSpq1cBCFL9giMwPIF-9" value="情形二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="700" width="60" height="30" as="geometry" />
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-9" value="情形三" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="695" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QCGSpq1cBCFL9giMwPIF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="882" width="310" height="130" as="geometry" />
@@ -93,6 +93,36 @@
             <mxPoint x="780" y="750" as="sourcePoint" />
             <mxPoint x="830" y="700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-20" width="1060" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="QCGSpq1cBCFL9giMwPIF-18" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="145" as="sourcePoint" />
+            <mxPoint x="1330" y="134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="140" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-10" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-10" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-24" value="情形一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="732" y="-55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-25" value="覆盖轨道" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;fontColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="712" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QCGSpq1cBCFL9giMwPIF-26" value="主轨道" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;fontColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
