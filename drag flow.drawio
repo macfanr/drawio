@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T09:54:24.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="kjcVsM1Hg7-G_BZFogD_" version="17.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-11T10:03:01.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="YGl6ReUgqkT4-Ou-OHpV" version="17.1.0" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="加资源">
     <mxGraphModel dx="2726" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2528,10 +2528,8 @@
       <root>
         <mxCell id="F3Q7MW_9gbd2dDN5KaZU-0" />
         <mxCell id="F3Q7MW_9gbd2dDN5KaZU-1" parent="F3Q7MW_9gbd2dDN5KaZU-0" />
-        <mxCell id="2o-wWuvQ7DJd1DO9N57i-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="etJ_fgNQKnF0KcWQa7qv-0" target="fLfHlzmxdTw4pJEYJEuG-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="180" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="etJ_fgNQKnF0KcWQa7qv-0" target="BmqzpIecZWgoJDOzPULn-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="etJ_fgNQKnF0KcWQa7qv-0" value="移动多个块，&lt;br&gt;以鼠标拖动的那一个块的最终位置为参考" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
           <mxGeometry x="255" y="50" width="120" height="60" as="geometry" />
@@ -2546,7 +2544,7 @@
         </mxCell>
         <mxCell id="fLfHlzmxdTw4pJEYJEuG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="fLfHlzmxdTw4pJEYJEuG-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="360" as="targetPoint" />
+            <mxPoint x="316" y="439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fLfHlzmxdTw4pJEYJEuG-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fLfHlzmxdTw4pJEYJEuG-2">
@@ -2555,69 +2553,131 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fLfHlzmxdTw4pJEYJEuG-4" value="是否所有块都能放到&lt;br&gt;目标轨道" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="250" y="200" width="130" height="80" as="geometry" />
+          <mxGeometry x="251" y="279" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fLfHlzmxdTw4pJEYJEuG-5" value="按照多块移动&lt;br&gt;逻辑执行" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="535" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="466" y="289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-1" target="BmqzpIecZWgoJDOzPULn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BmqzpIecZWgoJDOzPULn-1" value="所有块开始时间&lt;br&gt;排序(升序)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="255" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="BmqzpIecZWgoJDOzPULn-1" value="所有块开始时间&lt;br&gt;排序(升序)，&lt;br&gt;并计算总时长" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
+          <mxGeometry x="256" y="439" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-2" target="BmqzpIecZWgoJDOzPULn-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-21" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-5">
+          <mxGeometry x="0.0375" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-2" target="BmqzpIecZWgoJDOzPULn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-22" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-7">
+          <mxGeometry x="-0.1875" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-2" value="目标轨道是否&lt;br&gt;有空位置" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="257.5" y="470" width="115" height="80" as="geometry" />
+          <mxGeometry x="258.5" y="549" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-4" value="放入所有资源到该轨道" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="255" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="256" y="709" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-6" target="BmqzpIecZWgoJDOzPULn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-9">
+          <mxGeometry x="-0.0833" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-6" target="BmqzpIecZWgoJDOzPULn-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-11">
+          <mxGeometry x="-0.0323" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-6" value="目标轨道是视频轨道" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="452.5" y="470" width="115" height="80" as="geometry" />
+          <mxGeometry x="453.5" y="549" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-8" target="BmqzpIecZWgoJDOzPULn-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-27" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-13">
+          <mxGeometry x="-0.1064" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-8" target="BmqzpIecZWgoJDOzPULn-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-28" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-15">
+          <mxGeometry x="-0.1" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-8" value="上方轨道是否有空位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="465" y="610" width="90" height="80" as="geometry" />
+          <mxGeometry x="466" y="689" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-10" target="BmqzpIecZWgoJDOzPULn-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="857.5" y="630" as="targetPoint" />
+            <mxPoint x="858.5" y="709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-25" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-18">
+          <mxGeometry x="-0.1286" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-10" target="BmqzpIecZWgoJDOzPULn-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-20">
+          <mxGeometry x="0.0526" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-10" value="上下方轨道是否&lt;br&gt;有空位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="800" y="470" width="115" height="80" as="geometry" />
+          <mxGeometry x="801" y="549" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-12" value="放入所有资源到空位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="449.5" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="450.5" y="839" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-14" value="上方新建轨道，放入所有资源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="620" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="656" y="699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-16" value="放入所有资源到空位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="797.5" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="798.5" y="839" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmqzpIecZWgoJDOzPULn-19" value="上方新建轨道，放入所有资源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
-          <mxGeometry x="1010" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1011" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-29" target="BmqzpIecZWgoJDOzPULn-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-35" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-31">
+          <mxGeometry x="-0.1217" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3Q7MW_9gbd2dDN5KaZU-1" source="BmqzpIecZWgoJDOzPULn-29" target="fLfHlzmxdTw4pJEYJEuG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-34" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmqzpIecZWgoJDOzPULn-33">
+          <mxGeometry x="-0.1111" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-29" value="界面指定所有块&lt;br&gt;要放到一个轨道" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
+          <mxGeometry x="260.5" y="150" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BmqzpIecZWgoJDOzPULn-30" value="按照多块移动&lt;br&gt;逻辑执行" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="F3Q7MW_9gbd2dDN5KaZU-1">
+          <mxGeometry x="465" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
