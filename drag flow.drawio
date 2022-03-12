@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T08:28:11.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="lm6Rb9m8pS4_oX6AmWJh" version="17.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-12T08:29:22.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Occe2DGpc4pF-aiSRsc3" version="17.1.1" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="加资源">
     <mxGraphModel dx="3540" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -992,7 +992,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dmKN5q7iSDAU5Qc1QMQp-2" value="拖拽单个块" style="whiteSpace=wrap;html=1;rounded=1;" parent="dmKN5q7iSDAU5Qc1QMQp-1" vertex="1">
-          <mxGeometry x="290" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KCohR-afpF4vjvtAX7LV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dmKN5q7iSDAU5Qc1QMQp-1" source="dmKN5q7iSDAU5Qc1QMQp-5" target="KCohR-afpF4vjvtAX7LV-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1053,7 +1053,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KCohR-afpF4vjvtAX7LV-10" value="&lt;span&gt;鼠标在主轨道&lt;/span&gt;&lt;br&gt;&lt;span&gt;以及以上区域&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="dmKN5q7iSDAU5Qc1QMQp-1" vertex="1">
-          <mxGeometry x="295" y="431.25" width="110" height="107.5" as="geometry" />
+          <mxGeometry x="295" y="442" width="110" height="88.75" as="geometry" />
         </mxCell>
         <mxCell id="63hhbdDPUBGtZ07ph6DM-3" value="移动资源到&lt;br&gt;空位置" style="whiteSpace=wrap;html=1;" parent="dmKN5q7iSDAU5Qc1QMQp-1" vertex="1">
           <mxGeometry x="600" y="680.63" width="120" height="53.75" as="geometry" />
