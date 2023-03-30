@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T06:01:27.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JIl6wAn8UipThFB8zl8D" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T06:09:00.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-qnP-qSxW1XOJuNqAtwU" version="21.1.2" type="github">
   <diagram name="Page-1" id="2Bi18I8GiwrE-ukHqORg">
-    <mxGraphModel dx="1521" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1521" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,13 +20,13 @@
           <mxGeometry x="32" y="150" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/text-align-left-128.png" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-70">
-          <mxGeometry x="100" y="110" width="30" height="30" as="geometry" />
+          <mxGeometry x="88" y="110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/text-align-center-128.png" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-70">
-          <mxGeometry x="142" y="110" width="30" height="30" as="geometry" />
+          <mxGeometry x="130" y="110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/text-align-right-128.png" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-70">
-          <mxGeometry x="185" y="110" width="30" height="30" as="geometry" />
+          <mxGeometry x="173" y="110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-39" value="行间距：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-70">
           <mxGeometry x="32" y="190" width="50" height="30" as="geometry" />
@@ -46,22 +46,22 @@
         <mxCell id="mFGwb2Fd8uorsutvkc8b-44" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#F1F2F4;strokeColor=#ffffff;strokeWidth=2" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-70">
           <mxGeometry x="85" y="69" width="320" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="mFGwb2Fd8uorsutvkc8b-45" value="Button 2" style="rounded=0;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;html=1;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-44">
+        <mxCell id="mFGwb2Fd8uorsutvkc8b-45" value="右左" style="rounded=0;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;html=1;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-44">
           <mxGeometry width="80" height="33" relative="1" as="geometry">
             <mxPoint x="80" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFGwb2Fd8uorsutvkc8b-46" value="Button 3" style="rounded=0;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;html=1;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-44">
+        <mxCell id="mFGwb2Fd8uorsutvkc8b-46" value="上下" style="rounded=0;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;html=1;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-44">
           <mxGeometry width="80" height="33" relative="1" as="geometry">
             <mxPoint x="160" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFGwb2Fd8uorsutvkc8b-47" value="Button 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-44">
+        <mxCell id="mFGwb2Fd8uorsutvkc8b-47" value="下上" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-44">
           <mxGeometry x="1" width="80" height="33" relative="1" as="geometry">
             <mxPoint x="-80" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFGwb2Fd8uorsutvkc8b-48" value="Button 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-44">
+        <mxCell id="mFGwb2Fd8uorsutvkc8b-48" value="左右" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-44">
           <mxGeometry width="80" height="33" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/play-button-128.png;rotation=90;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-70">
@@ -107,7 +107,7 @@
           <mxGeometry x="140" y="202" width="60" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.colorPicker;chosenColor=#aaddff;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-71">
-          <mxGeometry x="230" y="204.25" width="50" height="20" as="geometry" />
+          <mxGeometry x="230" y="204.25" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-17" value="预设样式：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-71">
           <mxGeometry x="30" y="240" width="70" height="30" as="geometry" />
@@ -320,7 +320,7 @@
           <mxGeometry x="200" y="90" width="60" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-162" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.colorPicker;chosenColor=#aaddff;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-199">
-          <mxGeometry x="290" y="92.25" width="50" height="20" as="geometry" />
+          <mxGeometry x="290" y="92.25" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-163" value="/path/to/image.png" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#333333;align=left;fontSize=12;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#999999;mainText=;fillColor=#f5f5f5;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-199">
           <mxGeometry x="139" y="138" width="210" height="20" as="geometry" />
