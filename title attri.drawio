@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T05:52:38.310Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="X3Yz2CBxheOzwJ0-QnNc" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T06:01:27.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JIl6wAn8UipThFB8zl8D" version="21.1.2" type="github">
   <diagram name="Page-1" id="2Bi18I8GiwrE-ukHqORg">
     <mxGraphModel dx="1521" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="9_AeWzn01h3KBR9ZX3S9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mFGwb2Fd8uorsutvkc8b-71" vertex="1">
           <mxGeometry width="470" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="mFGwb2Fd8uorsutvkc8b-2" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-71">
+        <mxCell id="mFGwb2Fd8uorsutvkc8b-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;你好，文字&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-71">
           <mxGeometry x="30" y="30" width="410" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-3" value="HuaWen Kaiti - bold" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;sketch=0;whiteSpace=wrap;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-71">
@@ -214,7 +214,7 @@
         <mxCell id="mFGwb2Fd8uorsutvkc8b-152" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-113">
           <mxGeometry x="430" y="7" width="22" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="mFGwb2Fd8uorsutvkc8b-193" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/link-128.png" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-113">
+        <mxCell id="mFGwb2Fd8uorsutvkc8b-193" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/link-128.png;imageBackground=none;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-113">
           <mxGeometry x="74" y="57" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mFGwb2Fd8uorsutvkc8b-130" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -406,8 +406,8 @@
         <mxCell id="mFGwb2Fd8uorsutvkc8b-197" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/20/check-circle-outline-blank-128.png" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-199">
           <mxGeometry x="64" y="138.44000000000005" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mFGwb2Fd8uorsutvkc8b-198" value="背景类型：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-199">
-          <mxGeometry x="24" y="60" width="75" height="30" as="geometry" />
+        <mxCell id="mFGwb2Fd8uorsutvkc8b-198" value="类型：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mFGwb2Fd8uorsutvkc8b-199">
+          <mxGeometry x="31" y="60" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
