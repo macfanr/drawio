@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T03:09:46.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ws1iSoXdzMwRE5ACo6w8" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T03:14:38.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nmtiDTOye3QpxeSZ9Kxl" version="21.2.9" type="github">
   <diagram name="Page-1" id="2Bi18I8GiwrE-ukHqORg">
-    <mxGraphModel dx="1542" dy="2277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -511,7 +511,7 @@
         <mxCell id="Sm6e9naCBpMtphnkDz-9-59" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="Sm6e9naCBpMtphnkDz-9-58">
           <mxGeometry y="27" width="160" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="Sm6e9naCBpMtphnkDz-9-61" value="Tab 4" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="Sm6e9naCBpMtphnkDz-9-56">
+        <mxCell id="Sm6e9naCBpMtphnkDz-9-61" value="Mask" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="Sm6e9naCBpMtphnkDz-9-56">
           <mxGeometry x="352.50000000000006" width="117.50000000000001" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sm6e9naCBpMtphnkDz-9-63" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#444444;strokeColor=none;" vertex="1" parent="1">
@@ -596,13 +596,16 @@
           <mxGeometry x="60.70833333333333" y="51" width="146.875" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sm6e9naCBpMtphnkDz-9-116" value="第二个标签下内容是固定的" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-80" width="100" height="40" as="geometry" />
+          <mxGeometry x="840" y="-80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sm6e9naCBpMtphnkDz-9-117" value="第一个标签下内容不固定，可能有多个Border" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-80" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="-85" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sm6e9naCBpMtphnkDz-9-120" value="Mask 与视频 Mask 相同，无特殊变化" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1370" y="-80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm6e9naCBpMtphnkDz-9-121" value="选择第一个标签和第二个标签，都显示文字的编辑框，修改后不存在 Transform 的 Control" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
