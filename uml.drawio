@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T10:04:54.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="J4lWf3lNW-KqObVPAU1Z" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T10:07:20.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Xib4Jtx-6qOB4YX-QFZi" version="24.2.2" type="github">
   <diagram name="Page-1" id="nFrP1MrYJvmONDbNYgOr">
     <mxGraphModel dx="1262" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
         <mxCell id="bNIqR0DIkFrfzqywcM4n-3" value="是否为&amp;nbsp;&lt;div&gt;Apple M芯片&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="296.75" y="355" width="95.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bNIqR0DIkFrfzqywcM4n-5" value="OpenVINO(CPU)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCCE6;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="bNIqR0DIkFrfzqywcM4n-5" value="OpenVINO(CPU)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="491.25" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bNIqR0DIkFrfzqywcM4n-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bNIqR0DIkFrfzqywcM4n-7" target="bNIqR0DIkFrfzqywcM4n-9">
